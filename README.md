@@ -1,4 +1,4 @@
-# eBudget
+# eBudget - http://ebudget-fsa.herokuapp.com/
 
 Budgeting can be hard. Our app makes it easy to create a well-organized budget for all your personal financial needs.
 
