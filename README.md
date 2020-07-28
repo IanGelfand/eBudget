@@ -4,7 +4,7 @@ Budgeting can be hard. Our app makes it easy to create a well-organized budget f
 
 #### Production Link: http://ebudget-fsa.herokuapp.com/
 
-![eBudget Demo](https://giphy.com/gifs/L1DlQrW4MPSrq8cGVG.gif)
+![eBudget Demo](https://media.giphy.com/media/L1DlQrW4MPSrq8cGVG/giphy.gif)
 
 ## About
 
