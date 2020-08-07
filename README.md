@@ -47,7 +47,7 @@ process.env.PLAID_PUBLIC_KEY = 'Your Plaid Public Key goes here';
 
 ## Authors
 
-* [Rob Arcand] (https://github.com/robarcand)
-* [Ian Gelfand] (https://github.com/IanGelfand)
-* [Iskak Mantyubetov] (https://github.com/Iskak83)
-* [Vasyl Semak] (https://github.com/vasylsemak)
+* [Rob Arcand](https://github.com/robarcand)
+* [Ian Gelfand](https://github.com/IanGelfand)
+* [Iskak Mantyubetov](https://github.com/Iskak83)
+* [Vasyl Semak](https://github.com/vasylsemak)
