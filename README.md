@@ -39,7 +39,7 @@ Create a file called secrets.js in the project's root directory. This file is li
 
 Example secrets.js file:
 
-```
+```javascript
 process.env.PLAID_CLIENT_ID = 'Your Plaid Client ID goes here';
 process.env.PLAID_SECRET = 'Your Plaid Secret goes here';
 process.env.PLAID_PUBLIC_KEY = 'Your Plaid Public Key goes here';
@@ -47,7 +47,7 @@ process.env.PLAID_PUBLIC_KEY = 'Your Plaid Public Key goes here';
 
 ## Authors
 
-* Rob Arcand
-* Ian Gelfand
-* Iskak Mantyubetov
-* Vasyl Semak
+* [Rob Arcand] (https://github.com/robarcand)
+* [Ian Gelfand] (https://github.com/IanGelfand)
+* [Iskak Mantyubetov] (https://github.com/Iskak83)
+* [Vasyl Semak] (https://github.com/vasylsemak)
