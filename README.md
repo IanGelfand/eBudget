@@ -6,29 +6,28 @@ Budgeting can be hard. Our app makes it easy to create a well-organized budget f
 
 ![eBudget Demo](https://media.giphy.com/media/L1DlQrW4MPSrq8cGVG/giphy.gif)
 
-## About
+## Technologies
 
-**eBudget uses technologies including:**
 * [Plaid API](https://plaid.com/docs/)
-* Frontend – [React.js](https://reactjs.org/), [Redux.js](https://redux.js.org/)
-* Backend – [Express.js](https://expressjs.com/), [Sequelize ORM](https://sequelize.org/), [PostgreSQL](https://www.postgresql.org/)
-* Style – [Materialize CSS](https://materializecss.com/), [CSS](https://www.w3.org/Style/CSS/Overview.en.html), [Charts.js](https://www.chartjs.org/docs/latest/)
+* Frontend – [React](https://reactjs.org/), [Redux](https://redux.js.org/)
+* Backend – [Express](https://expressjs.com/), [Sequelize](https://sequelize.org/), [PostgreSQL](https://www.postgresql.org/)
+* Style – [Materialize CSS](https://materializecss.com/), CSS, [Charts.js](https://www.chartjs.org/docs/latest/)
 
 ## Installing
 
-**Use the following commands on your local terminal to download the app and get started:**
+```javascript
+git clone https://github.com/Team-Orochimaru/financial-planner.git
 
-`git clone https://github.com/Team-Orochimaru/financial-planner.git`
+cd financial-planner
 
-`cd financial-planner`
+npm install
 
-`npm install`
+npm run seed
 
-`createdb financial-planner`: creates postgres database
+createdb financial-planner
 
-`npm run seed`: populates your local database with dummy users
-
-`npm run start-dev`: starts developer environment with local server and webpack
+npm run start-dev
+```
 
 Visit [localhost:8080](http://localhost:8080) to view the app on your local server.
 
