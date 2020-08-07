@@ -1,6 +1,6 @@
 # eBudget
 
-Budgeting can be hard. Our app makes it easy to create a well-organized budget for all your personal financial needs. With eBudget you are able to bank anywhere you are, weather it is on a computer or a phone, our progresive web app makes it possible
+Budgeting can be hard. Our app makes it easy to create a well-organized budget for all your personal financial needs. With eBudget you are able to bank anywhere you are, weather it is on a computer or a phone, our progressive web app makes it possible.
 
 #### [Live Demo](http://ebudget-fsa.herokuapp.com/)
 
