@@ -15,19 +15,18 @@ Budgeting can be hard. Our app makes it easy to create a well-organized budget f
 
 ## Installing
 
-```javascript
-git clone https://github.com/Team-Orochimaru/financial-planner.git
+`git clone https://github.com/Team-Orochimaru/financial-planner.git`
 
-cd financial-planner
+`cd financial-planner`
 
-npm install
+`npm install`
 
-npm run seed
+`npm run seed`
 
-createdb financial-planner
+`createdb financial-planner`
 
-npm run start-dev
-```
+`npm run start-dev`
+
 
 Visit [localhost:8080](http://localhost:8080) to view the app on your local server.
 
